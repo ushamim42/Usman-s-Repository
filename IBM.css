@@ -1,0 +1,10 @@
+H1 {
+    font-size: 12;
+    font-family: 'ARIAL';
+    font-style: oblique;
+    font-stretch: expanded;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+}
